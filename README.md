@@ -70,3 +70,7 @@ Render the Mandelbrot set with red color mode:
 ```bash
 ./fractal -c -p '#' -m red
 ```
+Render a big and detailled Mandelbrot set:
+```bash
+./fractal -c -s 20 -i 1000
+```
